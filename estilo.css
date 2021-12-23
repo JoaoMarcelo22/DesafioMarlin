@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #003770;
+}
+nav{
+    background-color: #ec6608;
+}
+nav img{
+}
+main{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: #003770
+}
