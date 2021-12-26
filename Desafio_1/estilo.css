@@ -8,25 +8,29 @@ a{
     text-decoration: none;
 }
 body{
-    
+    background-color:#003770 ;
     background-image: url("Imagens usadas/background_body.png");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     
 }
 header{
-    background-color:#003770;
+
     padding: 23px;
 }
 header #check{
-    display: block;
-    float: right;
+position: absolute;
+right: 5px;
     }
 nav{
+    font-size: 15px;
     color: white;
     background-color: #ec6608;
-    padding: 10px;
     padding-left: 23px;
+    padding-bottom: 10px;
+}
+nav h2, img{
+    display: inline-block;
 }
 
 main{
