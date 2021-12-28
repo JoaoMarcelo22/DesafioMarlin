@@ -1,11 +1,8 @@
-@charset "utf-8";
+@charset "UTF-8";
 *{
     margin: 0px;
     padding: 0px;
     border: 0px;
-}
-body{
-    margin: center;
 }
 #foto1,#foto2{
     display: inline-block;
